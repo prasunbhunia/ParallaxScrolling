@@ -26,6 +26,9 @@ h6{
     font-family: Abel;
     font-size: 20px;
 }
+h2,p{
+    font-family: Abel;
+}
 header {
     box-sizing: border-box;
     min-height: 100vh;
